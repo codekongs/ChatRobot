@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\A_Project\\ChatRobot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\message_right.9.png",
+        "source": "E:\\A_Project\\ChatRobot\\app\\src\\main\\res\\mipmap-hdpi\\message_right.9.png"
+    },
+    {
+        "merged": "E:\\A_Project\\ChatRobot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\A_Project\\ChatRobot\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\A_Project\\ChatRobot\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\message_left.9.png",
+        "source": "E:\\A_Project\\ChatRobot\\app\\src\\main\\res\\mipmap-hdpi\\message_left.9.png"
+    }
+]

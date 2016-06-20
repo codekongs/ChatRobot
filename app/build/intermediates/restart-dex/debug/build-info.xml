@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86,armeabi-v7a"
+    api-level="19"
+    density="xhdpi"
+    format="7"
+    timestamp="966415934160"
+    token="-4745837867659114138" >
+
+    <task
+        name="javac"
+        duration="4099" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="1348" />
+    <task
+        name="verifier"
+        duration="241" />
+
+    <artifact
+        location="E:\A_Project\ChatRobot\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="10922198291362" >
+        <artifact
+            location="E:\A_Project\ChatRobot\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
