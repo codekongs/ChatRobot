@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\A_Project\ChatRobot\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="28eee3bdc72bb0588b46d4db224bd0d3b148fe02">
+        <dex dex="E:\A_Project\ChatRobot\app\build\intermediates\pre-dexed\debug\instant-run_71573b7b3aa8a0391569697dadef8a3486abb299.jar" />
+    </item>
+    <item
+        jar="E:\A_Project\ChatRobot\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="E:\A_Project\ChatRobot\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_0f5e8e1f6156285d61515e9d9f93e2ed3dbec75c.jar" />
+    </item>
+    <item
+        jar="E:\A_Project\ChatRobot\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="E:\A_Project\ChatRobot\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_0f5e8e1f6156285d61515e9d9f93e2ed3dbec75c.jar" />
+    </item>
+    <item
+        jar="E:\A_Project\ChatRobot\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="E:\A_Project\ChatRobot\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.0.0_2475b47e818b75cff436dee5d26c1358888af7ed.jar" />
+    </item>
+    <item
+        jar="E:\A_Project\ChatRobot\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="E:\A_Project\ChatRobot\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.0.0_2475b47e818b75cff436dee5d26c1358888af7ed.jar" />
+    </item>
+    <item
+        jar="E:\A_Project\ChatRobot\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="cea953c2ac2d4eb24981d1240fb27b94171f6475">
+        <dex dex="E:\A_Project\ChatRobot\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_303273b681002c3a8a6cae510edfb562d3470867.jar" />
+    </item>
+    <item
+        jar="E:\A_Project\ChatRobot\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="E:\A_Project\ChatRobot\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.0.0_492eee77a694b780a2b2ddc9902fe66175743ccf.jar" />
+    </item>
+    <item
+        jar="E:\A_Project\ChatRobot\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="E:\A_Project\ChatRobot\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_7b6e060bb9b53ddc10fa038a45e781ef8da6efe7.jar" />
+    </item>
+    <item
+        jar="E:\A_Project\ChatRobot\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="E:\A_Project\ChatRobot\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.0.0_492eee77a694b780a2b2ddc9902fe66175743ccf.jar" />
+    </item>
+    <item
+        jar="E:\A_Project\ChatRobot\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="E:\A_Project\ChatRobot\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_7b6e060bb9b53ddc10fa038a45e781ef8da6efe7.jar" />
+    </item>
+    <item
+        jar="F:\SDK\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="E:\A_Project\ChatRobot\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_7885b175d211bab6a2138b4350030f3e7eb38b49.jar" />
+    </item>
+    <item
+        jar="F:\SDK\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="E:\A_Project\ChatRobot\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_7885b175d211bab6a2138b4350030f3e7eb38b49.jar" />
+    </item>
+    <item
+        jar="E:\A_Project\ChatRobot\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="E:\A_Project\ChatRobot\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.0.0_5d19bb70cf68ebf06ce4cc4ba6fece034900caf9.jar" />
+    </item>
+    <item
+        jar="E:\A_Project\ChatRobot\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="E:\A_Project\ChatRobot\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.0.0_5d19bb70cf68ebf06ce4cc4ba6fece034900caf9.jar" />
+    </item>
+
+</items>
